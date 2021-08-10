@@ -26,11 +26,11 @@ mk-build-deps -i -t "apt-get --yes" -r
 
 ### Clone repo.
 
-git clone --single-branch --branch v2.0 https://invent.kde.org/maui/mauikit-accounts.git
+git clone https://invent.kde.org/maui/booth.git
 
-mv mauikit-accounts/* .
+mv booth/* .
 
-rm -rf mauikit-accounts examples LICENSES README.md
+rm -rf booth android_files macos_files windows_files ios_files examples LICENSES README.md
 
 ### Build Deb
 
