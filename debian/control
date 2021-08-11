@@ -17,7 +17,7 @@ Build-Depends: cmake,
                qtquickcontrols2-5-dev
 Standards-Version: 4.2.1
 Homepage: https://invent.kde.org/maui/booth/
-Vcs-Git: https://invent.kde.org/maui/booth/booth.git
+Vcs-Git: https://invent.kde.org/maui/booth.git
 Vcs-Browser: https://invent.kde.org/maui/booth/
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 
