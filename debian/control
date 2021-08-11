@@ -21,9 +21,12 @@ Vcs-Git: https://invent.kde.org/maui/booth/booth.git
 Vcs-Browser: https://invent.kde.org/maui/booth/
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 
-Package: index
+Package: booth
 Architecture: any
-Depends: qml-module-org-kde-mauikit, ${misc:Depends}, ${shlibs:Depends}
+Depends: qml-module-org-kde-mauikit,
+         qml-module-qt-labs-platform
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: A convergent camera app
  Booth is a camera app to record videos and take pictures and sync your camera photos.
  .
