@@ -83,7 +83,7 @@ make
 ### DO NOT USE debuild, screw it
 
 >> description-pak printf "%s\n" \
-	'MauiKit Document and Ebook collection manager.' \
+	'MauiKit Camera application.' \
 	'' \
 	'Booth allows you to record videos and take pictures.' \
 	'' \
