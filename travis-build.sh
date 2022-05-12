@@ -48,6 +48,7 @@ DEBIAN_FRONTEND=noninteractive apt -qq -yy install --no-install-recommends \
 	mauikit-filebrowsing-git \
 	qtbase5-dev \
 	qtdeclarative5-dev \
+	qtmultimedia5-dev \
 	qtquickcontrols2-5-dev
 
 DEBIAN_FRONTEND=noninteractive apt -qq -yy install --only-upgrade \
