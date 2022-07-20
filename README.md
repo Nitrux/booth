@@ -1,4 +1,4 @@
-# Booth [![Build Status](https://travis-ci.org/Nitrux/booth.svg?branch=main)](https://travis-ci.org/Nitrux/booth)
+# Booth [![Booth Deb](https://github.com/Nitrux/booth/actions/workflows/build_deb_amd64.yml/badge.svg)](https://github.com/Nitrux/booth/actions/workflows/build_deb_amd64.yml)
 
 A convergent camera app.
 
