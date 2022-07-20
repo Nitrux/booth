@@ -27,7 +27,6 @@ $APT_COMMAND install -qy --no-install-recommends \
     libkf5kio-dev \
     libkf5notifications-dev \
     lintian \
-    mauikit-git \
     qtbase5-dev \
     qtdeclarative5-dev \
     qtmultimedia5-dev \
