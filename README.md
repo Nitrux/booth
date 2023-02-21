@@ -1,6 +1,6 @@
-# Booth [![Booth Deb](https://github.com/Nitrux/booth/actions/workflows/build_deb_amd64.yml/badge.svg)](https://github.com/Nitrux/booth/actions/workflows/build_deb_amd64.yml)
+# Booth
 
-A convergent camera app.
+Convergent camera app built with MauiKit.
 
 # Issues
 If you find problems with the contents of this repository please create an issue.
